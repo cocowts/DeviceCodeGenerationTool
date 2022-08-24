@@ -8,7 +8,7 @@
 
 * 仅支持 win 系统，当前已测试 win10 及以上版本
 * 关于扫码枪，硬件需使用 USB-KBW 接口
-* 关于标签打印机 （当前标签排版尺寸，60mm x 40mm）
+* 关于标签打印机 （当前标签排版尺寸，60mm x 40mm， 40mm x 40mm, 30mm x 30mm）
   * 须在控制面板中可看到待使用的打印机
   * 需将待使使用的打印机**设置为默认打印机**
   
@@ -25,7 +25,7 @@
 # 安装
 
 1. 双击 `设备码量产工具_setup.exe`
-
+Cancel changes
 ![](https://github.com/cocowts/DeviceCodeGenerationTool/blob/master/Image/3.png)
 
 2. 点击 `下一步`（可选的更换安装路径）
